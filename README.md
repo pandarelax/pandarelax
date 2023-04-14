@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pandarelax/pandarelax/blob/output/snake.svg" alt="Snake animation" />
-
-###
